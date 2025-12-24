@@ -1,0 +1,17 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "description": "Custom USDT token on Solana",
+  "image": "https://raw.githubusercontent.com/rudkik/solana-usdt/main/usdt-logo.svg",
+  "external_url": "https://tether.to",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rudkik/solana-usdt/main/usdt-logo.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "image"
+  }
+}
