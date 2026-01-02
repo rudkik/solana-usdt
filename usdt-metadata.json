@@ -1,21 +1,10 @@
 {
-  "name": "USDT",
-  "symbol": "USDT",
-  "description": "Custom USDT token on Solana",
-  "image": "https://raw.githubusercontent.com/rudkik/solana-usdt/main/usdt-logo.png",
-  "external_url": "https://tether.to",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/rudkik/solana-usdt/main/usdt-logo.png",
-        "type": "image/png"
-      },
-      {
-        "uri": "https://raw.githubusercontent.com/rudkik/solana-usdt/main/usdt-logo.svg",
-        "type": "image/svg+xml"
-      }
-    ],
-    "category": "image"
+  "name": "Tether ՍSD",
+  "symbol": "ՍSDT",
+  "description": "Tether ՍSD",
+  "image": "https://ipfs.io/ipfs/Qma8e5XeQpPzN6yZkEeWXYLcoTEQSk87nAg1YXoRnAbWQA",
+  "creator": {
+    "name": "HoneyChain",
+    "site": "https://www.honeychain.online/solana-token"
   }
 }
